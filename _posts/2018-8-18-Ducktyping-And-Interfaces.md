@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duck Typing, Interfaces, and you.
+title: Duck Typing, Interfaces, and You.
 ---
 
 I recently took a [rather wonderful course](https://course.ccs.neu.edu/cs3500/) that got me thinking about good object oriented programming, and like many aspiring CS students, I tried to actively apply what I learned from OOD and use it in a project. One project that I like to work [on during my commutes](https://github.com/RegaledSeer/PyBoardGames) is the PyBoardGames project. At the moment, I'm working on the chess game and implementing various chess pieces.
@@ -53,6 +53,8 @@ If you've never learned about duck typing before, it essentially follows this pr
 
 Python's duck typing emphasizes an object's *behavior* over an actual class, which is a dramatic difference to something like Java, whose compiler would yell at you if you were to try and provide dramatically different classes to functions that expect a specific type of object. Because of this, it requires a completely different mindset when dealing with Python objects. Granted, there *technically* is the `isinstance()` operator, but this is discouraged in practically every case in Java, and is *especially* discouraged with duck typing for Python, since we shouldn't be worrying about what the type is, but rather let the "duck" walk and quack for itself.
 
-Now, with this new found knowledge of duck typing, what could I do with interfaces and promoting dependency inversion? Hmm. It looks like we're still stuck on the same page, since now that we know that *any* object could be used, it seems like we're not getting anywhere. The rationale I could come up with after looking around the web was to **document and test**. It's a bit disappointing that this is the most optimal solution to the issue, but this is a drawback to using dynamic typing: Our interfaces are *implicit*—not explicit. In order for us to even use these interfaces, we have to document it and explicitly mention to the programmers what kinds of objects are expected, and hope that these programmers will follow the documentation. It kind of sucks, but this approach more closely resemble Guido's philosophy of letting programmers do whatever they want, since "we're all consenting adults here".
+Now, with this new found knowledge of duck typing, what could I do with interfaces and promoting dependency inversion? Hmm. It looks like we're still stuck on the same page, since now that we know that *any* object could be used, it seems like we're not getting anywhere. The rationale I could come up with after looking around the web was to **document and test**.
 
+ It's a bit disappointing that this is the most optimal solution to the issue, but this is a drawback to using dynamic typing: Our interfaces are *implicit*—not explicit. In order for us to even use these interfaces, we have to document it and explicitly mention to the programmers what kinds of objects are expected, and hope that these programmers will follow the documentation. In order for us to *prove* that our code provides an expected output, we *have* to unit test to show others that our code will return what is expected. It kind of sucks, but this approach more closely resemble Guido's philosophy of letting programmers do whatever they want, since "we're all consenting adults here".
 
+This project has been interesting in terms of learning about the capabilities and limitations of dynamic typing, and I hope that I will encounter some more practical challenges that come with using Python as an OOP code base.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: About Kevin
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Kevin, a second year Computer Science student at Northeastern University.
 
 ### More Information
 
@@ -12,4 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hui.k@husky.neu.edu](mailto:hui.k@husky.neu.edu)
+
+[LinkedIn](https://www.linkedin.com/in/kevin-hui/)

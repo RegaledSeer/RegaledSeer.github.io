@@ -98,7 +98,7 @@ Slack was an interesting one. A recruiter reached out to me and said that I
 could take a coding sample, which I had taken Google's coding sample 
 recently, so I figured it would be worth my while to try it out. 
 However, I took their coding sample immediately after Dropbox's coding 
-sample, and I quickly realized that back to back interviews was *extremely* 
+sample, and I quickly realized that back to back interviews were *extremely* 
 taxing. I didn't do well on the coding sample, and thus I was promptly
 rejected afterwards.
 

@@ -104,7 +104,7 @@ rejected afterwards.
 
 However, by some stroke of luck, Slack had revised their hiring process and
 sent  emails out to rejected candidates around October, stating that there was
-a new processand that candidates could retake the coding sample. I took the 
+a new process and that candidates could retake the coding sample. I took the 
 coding sample and was able to ace all of the questions this time around 
 (by October, I had accrued a decent amount of technical interview 
 experience), and was able to move past the coding sample. From there, I 

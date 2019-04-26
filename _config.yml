@@ -7,25 +7,23 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Kevin Hui
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Kevin Hui
 
-description: Stylish Jekyll Theme
+description: Kevin's Personal Blog/Website
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Kevin Hui
+  email: hui.k@husky.neu.edu
+  github: CookieComputing
+  linkedin: kevin-hui
+  bio: Northeastern Undergraduate Pursuing B.S. in Computer Science with concentration in Cyber Ops
+  email_md5: 35b39d49ced209e8b4dc539a3f43180a
 
 rss_path: feed.xml
 categories_path: categories.html

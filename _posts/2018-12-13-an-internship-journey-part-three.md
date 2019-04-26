@@ -1,6 +1,9 @@
 ---
 layout: post
 title: An Internship Journey, part three.
+categories: [internship]
+tags: []
+description: Part three of my internship search for Fall 2018
 ---
 
 This is part three of my sophomore year co-op/internship experience. Last time

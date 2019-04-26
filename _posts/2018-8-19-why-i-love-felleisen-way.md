@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Why I love the Felleisen introduction to CS.
+categories: [general]
+tags: [felleisen, northeastern, introduction]
+description: My rant on the introductory courses at Northeastern
 ---
 
 Coming from Northeastern, I can say for sure that anyone who has heard the 

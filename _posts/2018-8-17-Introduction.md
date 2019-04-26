@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Introduction
+categories: [general]
+tags: []
+description: My introductory post
 ---
 
 Hello! My name is Kevin and I am a hopeful computer science student who aims

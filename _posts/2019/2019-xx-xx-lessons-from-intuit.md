@@ -20,3 +20,8 @@ published: false
 - Strive for right design and nothing less. Good design reduces tech debt and leaves less in your mind for cognitive complexity
 - But not to the point where it breaks you: If there really is no solid design, you have to think about whether or not the trade off is worth it, and then "design and document" :)
 - Don't stress out over work. 
+- Choose your task handling carefully: I had a situation where I had 2 tasks that I was working on concurrently, and context switching was a pain.
+Another big task popped up, and suddenly I was handling three tasks at once, with a sprint deadline by the end of the week. Instead of panicking,
+I had to step back and look at which route would be the path of least resistance, and work my way there. I did one task at a time, focusing on
+the ones that I could easily do and verify, and then work on the more time consuming tasks at the end.
+- Beware owner bias: Got bit by the bias of designing and owning my design that I didn't see how bad it was.

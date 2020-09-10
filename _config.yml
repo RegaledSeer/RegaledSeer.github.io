@@ -1,0 +1,38 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: dbyll
+google_analytics: dbyll
+title: Kevin Hui
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Kevin Hui
+
+description: Kevin's Personal Blog/Website
+author:
+  name: Kevin Hui
+  email: hui.k@husky.neu.edu
+  github: CookieComputing
+  linkedin: kevin-hui
+  bio: Northeastern Undergraduate Pursuing B.S. in Computer Science with concentration in Cyber Ops
+  email_md5: 35b39d49ced209e8b4dc539a3f43180a
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate

@@ -4,6 +4,7 @@ title: An Internship Journey, part one.
 categories: [internship]
 tags: []
 description: Part one of my internship search for Fall 2018
+published: false
 ---
 
 Ah, fall semester. For many college students, it's the start of another

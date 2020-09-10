@@ -4,6 +4,7 @@ title: Duck Typing, Interfaces, and You.
 categories: [python]
 tags: [design, interfaces, python]
 description: A post about duck typing and structural typed interfaces
+published: false
 ---
 
 I recently took a [rather wonderful course](https://course.ccs.neu.edu/cs3500/) 

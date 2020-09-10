@@ -4,6 +4,7 @@ title: An Internship Journey, part two.
 categories: [internship]
 tags: []
 description: Part two of my internship search for Fall 2018
+published: false
 ---
 
 When I last left off on my journey, I was lucky enough to get an interview
